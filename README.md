@@ -1,6 +1,6 @@
-# <center>TENDELIC-POS-SYSTEM-PROJECT</center>
+# <p align="center">TENDELIC-POS-SYSTEM-PROJECT</p>
 
-<center><a href="#"><img src="./public/assets/imgs/tendelic-logo-name.png" widht="400" height="200"></a></center>
+<p align="center"><a href="#"><img src="./public/assets/imgs/tendelic-logo-name.png" widht="400" height="200"></a></p>
 
 [**Tendelic**](https://github.com/JianefrelDionaldo/Tendelic-POS-System-Project) provides a professional and reliable platform that streamlines the entire food services and management process for a restaurant that lead to customers satisfaction.
 
